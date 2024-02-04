@@ -7,3 +7,7 @@ implementing a multi-layer perceptron algorithm, implementing a random forest al
 comparison of these models to determine the optimal algorithm.
 
 Dataset Link: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data
+
+Other Contributor:
+Ömer Tuğrul
+https://github.com/omer38
